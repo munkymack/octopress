@@ -1,0 +1,11 @@
+# Site settings
+title: Octopress on Netlify
+email: your-email@domain.com
+description: An Octopress Blog hosted on Netlify
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: Netlify
+github_username:  Netlify
+
+# Build settings
+markdown: kramdown
